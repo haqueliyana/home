@@ -1,0 +1,75 @@
+body
+{
+	background-color: lightblue;
+}
+
+h1
+{
+	border-style: double;
+	border-color: red;
+	
+}
+
+ol
+{
+	color: red
+}
+
+p
+{
+	color: black
+}
+
+h3
+{
+	border-style: double;
+	border-color: red;
+	color: black
+}
+
+p
+{
+	font-size: 17px
+}
+
+h3
+{
+	font-size: 23px
+}
+
+h2
+{
+	font-size: 15px
+}
+
+li
+{
+	color: red
+}
+
+h2
+{
+	border-style: double;
+	border-color: red;
+	color: black
+}
+
+table, td, th
+{
+	border: 2px solid black; 
+	border-color: red;
+	font-size: 15px;
+}
+
+table
+{
+	border-collapse: collapse;
+	width: 50%
+}
+
+th
+{
+	text-align: left;
+}
+
+<!--I don't have so much stuff here-->
